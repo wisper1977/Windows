@@ -1,6 +1,10 @@
-<# Powershell Script to Sync On-Prem Active Directory with Microsoft365
+<#
+    .SYNOPSIS
+    Sync On-Prem Active Directory with Microsoft365. Make sure to setup your domain,User name, and Password.
+    .NOTES
+    filename: Sync_AD_365.ps1
     author: Chris Collins
-    Date: 5/6/2022
+    created: 5/6/2022
     #>
 
 $UserName = "DOMAIN\USER" # Add your Administrator Account Name here
