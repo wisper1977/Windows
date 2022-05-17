@@ -1,6 +1,11 @@
-<# Powershell Script to restart the Print Spooler
+<#  .SYNOPSIS
+    Powershell Script to restart the Print Spooler. Make sure to setup your domain,User name, and Password.
+    .NOTES
+    filename: RenamePC.ps1
     author: Chris Collins
-    Date: 5/6/2022
+    created: 5/6/2022
+    author: Chris Collins
+    created: 5/6/2022
     #>
 
 $username = "DOMAIN\USER" # Use your Administrator Logon Credentials
