@@ -1,6 +1,6 @@
 REM Batch File to flush DNS and reset ip address
 REM Author Chris Collins
-REM 5/6/2022
+REM created: 5/6/2022
 
 @echo off
 ipconfig /all
