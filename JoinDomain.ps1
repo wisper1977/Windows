@@ -1,6 +1,9 @@
-<# Powershell Script to Join a Domain
+<#  .SYNOPSIS
+    Powershell Script to Join a Domain. Make sure to setup your domain,User name, and Password.
+    .NOTES
+    filename: JoinDomain.ps1
     author: Chris Collins
-    Date: 5/6/2022
+    Created: 5/6/2022
     #>
     
 $DomainName = "DOMAIN" # Add your domain name here
