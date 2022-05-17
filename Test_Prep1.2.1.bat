@@ -1,6 +1,6 @@
 REM Batch File to close all programs that may interfear with Secure Browser Test Programs
-REM Author Chris Collins
-REM 5/6/2022
+REM Author: Chris Collins
+REM created: 5/6/2022
 
 taskkill /F /FI "IMAGENAME eq Calculator.exe"
 taskkill /F /FI "IMAGENAME eq msedge.exe"
