@@ -4,9 +4,8 @@
     Deploy through Intune and target SYSTEM (this script will not work under user context)
     .NOTES
     filename: set-CleanupUserProfilesAfterDays.ps1
-    author: Jos Lieben
-    blog: www.lieben.nu
-    created: 22/10/2019
+    author: Chris Collins
+    created: 05/17/2022
 #>
 
 $maxProfileAgeInDays = 60
