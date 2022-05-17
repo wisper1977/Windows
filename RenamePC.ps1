@@ -1,6 +1,9 @@
-<# Powershell Script to Rename a PC
+<#  .SYNOPSIS
+    Powershell Script to Rename a PC. Make sure to setup your domain,User name, and Password.
+    .NOTES
+    filename: RenamePC.ps1
     author: Chris Collins
-    Date: 5/6/2022
+    created: 5/6/2022
     #>
     
 [CmdletBinding()]
